@@ -1,0 +1,43 @@
+.main-product-list {
+  width: 97%;
+  margin: 10px auto 30px auto;
+
+  h2 {
+    text-align: left;
+    color: gray;
+    margin: 15px auto auto auto;
+    padding: 0px 10px;
+  }
+
+  .product-info {
+    padding: 10px 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px;
+  }
+
+  h3 {
+    padding: 0px 0px;
+    margin: 10px auto auto auto;
+    font-size: 20px;
+  }
+
+  p {
+    color: gray;
+    font-size: 17px;
+  }
+
+  .main-share-button {
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px;
+    font-size: 15px;
+  }
+
+  h4 {
+    font-size: 20px;
+    margin: 0px auto;
+    color: black;
+  }
+}
